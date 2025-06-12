@@ -1,23 +1,24 @@
 criaCartao(
-    'Astronomia',
-    'Qual o maior planeta do sistema solar?',
-    'Júpiter'
+    'Tartaruga',
+    'Quantos anos vive uma tartaruga marítima?',
+    '30 anos'
 )
 
 criaCartao(
-    'Biologia',
-    'O que é fotossíntese?',
-    'É o processo pelo qual as plantas convertem luz solar em energia'
+    'Águas-vivas',
+    'Por que a água-viva brilha?',
+    'devido à bioluminescência, um processo natural em 
+    que certos organismos emitem luz própria.'
 )
 
 criaCartao(
-    'Química',
-    'Qual é o elemento químico mais leve?',
-    'Hidrogênio'
+    'Piramboia',
+    'Qual é o Nome científico?',
+    'Lepidosiren paradoxa.'
 )
 
 criaCartao(
-    'Anatomia',
-    'Qual é o nome do maior osso do corpo humano?',
-    'Fêmur'
+    'Orca',
+    'Onde a baleia orca vive?',
+    'são encontradas em todos os oceanos do mundo, desde o Ártico até a Antártida'
 )
