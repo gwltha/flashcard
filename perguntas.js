@@ -7,8 +7,7 @@ criaCartao(
 criaCartao(
     'Águas-vivas',
     'Por que a água-viva brilha?',
-    'devido à bioluminescência, um processo natural em 
-    que certos organismos emitem luz própria.'
+    'devido à bioluminescência, um processo natural em que certos organismos emitem luz própria.'
 )
 
 criaCartao(
