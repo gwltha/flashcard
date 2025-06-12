@@ -11,7 +11,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Piramboia',
+    'piramboia',
     'Qual é o Nome científico?',
     'Lepidosiren paradoxa.'
 )
